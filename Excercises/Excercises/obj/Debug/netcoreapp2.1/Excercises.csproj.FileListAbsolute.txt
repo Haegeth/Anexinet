@@ -1,0 +1,11 @@
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\bin\Debug\netcoreapp2.1\Excercises.deps.json
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\bin\Debug\netcoreapp2.1\Excercises.runtimeconfig.json
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\bin\Debug\netcoreapp2.1\Excercises.runtimeconfig.dev.json
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\bin\Debug\netcoreapp2.1\Excercises.dll
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\bin\Debug\netcoreapp2.1\Excercises.pdb
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.csprojAssemblyReference.cache
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.AssemblyInfoInputs.cache
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.AssemblyInfo.cs
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.dll
+C:\Users\Haegeth\Desktop\Anexinet\Excercises\Excercises\obj\Debug\netcoreapp2.1\Excercises.pdb
